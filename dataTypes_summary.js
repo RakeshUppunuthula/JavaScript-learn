@@ -109,4 +109,13 @@ Example: let regex = /hello/i;
  
   
   */
+
+//------------------------------------------------------------------
+
+// stack and heap
+
+// primitive Data types uses stack
+
+// non primitive Data types uses Heap
+
   
