@@ -25,7 +25,7 @@ function one(){
 }
 one()
 
-// -------------------- differnce in two values declartion and mode of execution
+// -------///-----------//------ differnce in two values declartion and mode of execution-------//-------//------------//
 
 
 //addOne(5)  -------ifi call above function no errro it executes 
